@@ -2,7 +2,7 @@ Trading Manuals Repository (English and Spanish)
 
 Welcome to the Trading Manuals repository! This repository contains various manuals and guides related to trading, covering different strategies, techniques, and tools to help traders improve their skills.
 
---Content:
+Content:
 
   -Trading strategies
 
@@ -14,11 +14,11 @@ Welcome to the Trading Manuals repository! This repository contains various manu
 
   -Platform tutorials
 
---Purpose
+Purpose
 
   -The purpose of this repository is to provide structured and well-documented resources for traders of all levels, from beginners to advanced professionals.
 
---Contribution
+Contribution
 
   -If you would like to contribute by adding new manuals or improving existing ones, feel free to submit a pull request.
 
