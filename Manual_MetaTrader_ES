@@ -1,0 +1,61 @@
+Manual para usar MetaTrader (Español)
+
+1. Instalación
+
+- Descargar MetaTrader: Visita la página web oficial de MetaTrader o la página de tu bróker y
+descarga la versión adecuada (MetaTrader 4 o 5).
+- Instalar MetaTrader: Abre el archivo descargado y sigue los pasos del asistente de instalación.
+- Iniciar MetaTrader: Abre el programa después de la instalación.
+
+2. Configuración de la cuenta
+
+- Iniciar sesión: Abre MetaTrader y selecciona "Archivo" > "Abrir cuenta" para crear una nueva
+cuenta de demo o real.
+- Datos de la cuenta: Introduce el nombre de usuario, la contraseña y el servidor proporcionado por
+tu bróker.
+- Verificar la conexión: Una vez conectada la cuenta, en la parte inferior, podrás ver el estado de
+conexión (debería estar en verde).
+
+3. Interface y funciones principales
+
+- Gráficos: Los gráficos se abren al seleccionar un par de divisas o activo en el "Market Watch" y
+hacer clic derecho > "Gráfico de ventana".
+- Abrir órdenes: Haz clic en el botón "Nueva orden" en la parte superior para abrir una nueva
+operación.
+- Indicadores: Ve a "Insertar" > "Indicadores" para agregar indicadores técnicos.
+- Historial de operaciones: En la pestaña "Terminal" en la parte inferior, puedes ver el historial de
+todas tus operaciones.
+
+4. Realizar operaciones
+
+- Orden de compra/venta: En la ventana de "Nueva Orden", selecciona el volumen (tamaño del
+lote), el tipo de orden (de mercado o pendiente) y el precio de entrada.
+- Establecer Stop Loss y Take Profit: Estos son niveles donde puedes especificar el precio al que se
+cerrará la operación automáticamente para evitar grandes pérdidas (Stop Loss) o asegurar
+ganancias (Take Profit).
+- Ejecutar la orden: Haz clic en "Comprar" o "Vender" según lo que desees.
+
+5. Personalización y herramientas adicionales
+
+- Añadir gráficos personalizados: Puedes personalizar los gráficos cambiando el tipo de gráfico
+(líneas, barras, velas) y los colores de las velas.
+- Utilizar Expert Advisors (EA): Los EAs son programas que realizan operaciones automáticamente.
+Se pueden agregar desde la pestaña "Navegador".
+- Panel de herramientas: MetaTrader tiene herramientas como Fibonacci, líneas de tendencia y
+más, que puedes acceder desde la barra de herramientas.
+
+6. Análisis técnico y gráficos
+
+- Establecer indicadores: Desde "Insertar" > "Indicadores" puedes elegir entre una variedad de
+indicadores como RSI, MACD, y medias móviles.
+- Dibujar líneas de tendencia: Usa la herramienta de líneas desde la barra de herramientas para
+trazar líneas de soporte y resistencia.
+- Análisis de velas: Los gráficos de velas son útiles para visualizar patrones y tendencias del
+mercado.
+
+7. Cerrar operaciones y gestionar riesgos
+
+- Cerrar una operación: Haz clic derecho sobre la operación abierta en la ventana "Terminal" y
+selecciona "Cerrar orden".
+- Gestionar riesgo: Es importante usar Stop Loss y Take Profit para gestionar el riesgo y proteger tu
+cuenta de pérdidas grandes.
