@@ -1,0 +1,54 @@
+MetaTrader User Manual (English)
+
+1. Installation
+
+- Download MetaTrader: Visit the official MetaTrader website or your broker's site and download the
+appropriate version (MetaTrader 4 or 5).
+- Install MetaTrader: Open the downloaded file and follow the installation wizard steps.
+- Launch MetaTrader: Open the program after installation.
+
+2. Account Setup
+
+- Log in: Open MetaTrader and click "File" > "Open an Account" to create a new demo or real
+account.
+- Account data: Enter the username, password, and server provided by your broker.
+- Verify connection: Once logged in, the connection status will appear at the bottom (it should be
+green).
+
+3. Main Interface and Features
+
+- Charts: Open charts by selecting a currency pair or asset from the "Market Watch" and right-click >
+"Chart Window".
+- Place Orders: Click the "New Order" button at the top to place a new trade.
+- Indicators: Go to "Insert" > "Indicators" to add technical indicators.
+- Trade History: In the "Terminal" tab at the bottom, you can view the history of all your trades.
+
+4. Making Trades
+
+- Buy/Sell Order: In the "New Order" window, select the volume (lot size), order type (market or
+pending), and entry price.
+- Set Stop Loss and Take Profit: These are levels where you can specify the price at which the trade
+will automatically close to avoid large losses (Stop Loss) or lock in profits (Take Profit).
+- Execute the Order: Click "Buy" or "Sell" based on your preference.
+
+5. Customization and Additional Tools
+
+- Add Custom Charts: You can customize charts by changing the chart type (lines, bars, candles)
+and the candle colors.
+- Use Expert Advisors (EAs): EAs are programs that execute trades automatically. They can be
+added from the "Navigator" tab.
+- Tool Panel: MetaTrader has tools like Fibonacci, trend lines, and more, which you can access from
+the toolbar.
+
+6. Technical Analysis and Charts
+
+- Set Indicators: From "Insert" > "Indicators" you can choose from various indicators like RSI, MACD,
+and moving averages.
+- Draw Trend Lines: Use the line tool from the toolbar to draw support and resistance lines.
+- Candlestick Analysis: Candlestick charts are useful for visualizing patterns and market trends.
+
+7. Close Trades and Manage Risks
+
+- Close a Trade: Right-click on an open trade in the "Terminal" window and select "Close Order".
+- Risk Management: It's important to use Stop Loss and Take Profit to manage risk and protect your
+account from large losses
