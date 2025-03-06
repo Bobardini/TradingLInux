@@ -14,11 +14,11 @@ Content:
 
   -Platform tutorials
 
-Purpose
+Purpose:
 
   -The purpose of this repository is to provide structured and well-documented resources for traders of all levels, from beginners to advanced professionals.
 
-Contribution
+Contribution:
 
   -If you would like to contribute by adding new manuals or improving existing ones, feel free to submit a pull request.
 
