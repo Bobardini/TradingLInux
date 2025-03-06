@@ -1,4 +1,4 @@
-Trading Manuals Repository
+Trading Manuals Repository (English and Spanish)
 
 Welcome to the Trading Manuals repository! This repository contains various manuals and guides related to trading, covering different strategies, techniques, and tools to help traders improve their skills.
 
